@@ -41,15 +41,23 @@ An innovative travel planning website developed with **React.js** and **Tailwind
 
 * **B.Tech in Electronics and Communication Engineering**
     * Maulana Abul Kalam Azad University of Technology
+    * 2022 - 2025
+    * CGPA : 7.70
 
 * **Diploma in Electronics and Telecommunication Engineering**
     * Ramakrishna Mission Silpapitha
+    * 2019 - 2022
+    * Percentage : 81.6
 
 * **Higher Secondary**
     * Panihati Tran Nath High School
+    * 2018 - 2019
+    * Percentage: 70.2
 
 * **Secondary**
     * Panihati Tran Nath High School
+    * 2016 - 2017
+    * Percentage: 74.2
 
 ---
 
@@ -70,9 +78,6 @@ When I'm not immersed in coding or data, you'll often find me:
 <p align="center">
 <a href="https://github.com/Sudeb09">
 <img src="https://github-readme-stats.vercel.app/api?username=Sudeb09&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
-</a>
-<a href="https://github.com/Sudeb09">
-<img src="https://github-readme-streak-stats.cyclic.app/?user=Sudeb09&theme=dark&hide_border=true" />
 </a>
 </p>
 
