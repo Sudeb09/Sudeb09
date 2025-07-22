@@ -74,15 +74,6 @@ When I'm not immersed in coding or data, you'll often find me:
 
 ---
 
-📈 GitHub Activity
-<p align="center">
-<a href="https://github.com/Sudeb09">
-<img src="https://github-readme-stats.vercel.app/api?username=Sudeb09&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
-</a>
-</p>
-
----
-
 ## Let's Connect!
 
 I'm always open to new opportunities, collaborations, or just a good tech chat. Feel free to reach out!
